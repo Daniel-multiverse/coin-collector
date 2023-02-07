@@ -1,5 +1,6 @@
 // your code 
 // require the coins array
+const coins = require('./coins');
 
 function coinCollector(coins) {
   const onlyCoins = [];
